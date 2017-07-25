@@ -2,7 +2,7 @@
 
 #define PIN 3
 
-Adafruit_NeoPixel strip = Adafruit_NeoPixel(2, PIN, NEO_RGB + NEO_KHZ800);
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(2, PIN, NEO_GRB + NEO_KHZ800);
 
 int waitTime = 10;
 

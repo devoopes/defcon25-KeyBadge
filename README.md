@@ -9,7 +9,11 @@ Badge printed with PLA to represent the Defcon 25 logo and theme. PCB on the bac
 - *STL, OBJ, and SVG* in TinkerCAD folder.
 - *Arduino* in Arduino folder.
 
+### TinkerCAD design
 ![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/3d.png "In TinkerCAD")
+### Painting Production
 ![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/production_paint.jpg "Painting Production")
+### PCB Assembly and Production
 ![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/production_pcb.jpg "PCB Assembly and Production")
+### Final Product
 ![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/final_design.jpg "Final Design")

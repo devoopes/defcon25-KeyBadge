@@ -11,5 +11,5 @@ Badge printed with PLA to represent the Defcon 25 logo and theme. PCB on the bac
 
 ![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/3d.png "In TinkerCAD")
 ![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/production_paint.jpg "Painting Production")
-![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/production_pcb "PCB Assembly and Production")
-![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/final_design "Final Design")
+![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/production_pcb.jpg "PCB Assembly and Production")
+![alt text](https://github.com/SeanLeftBelow/KeyBadge/blob/master/final_design.jpg "Final Design")
